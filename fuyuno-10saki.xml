@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update>
+  <version>1.5.4</version>
+  <page>https://fuyumoe.booth.pm/items/8999442</page>
+  <notes>先にOBSを立ち上げるとカウンターが表示されない事があるバグを修正しました。</notes>
+</update>
