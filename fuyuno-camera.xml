@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <version>1.2.2</version>
+  <version>1.2.3</version>
   <page>https://fuyumoe.booth.pm/items/8998941</page>
-  <notes>カメラを拡大・縮小できるようにしました。</notes>
+  <notes>【確認用・Windows実機未確認】
+製品版に初回のみの合言葉認証を追加しました。
+・合言葉入力の表示／非表示を切り替えられます。
+・認証記録を保存し、次回以降と通常の更新後は原則入力不要です。
+・付属のTXT／HTML説明書に初回認証の案内を追加しました。
+・入力前後の空白は無視します。認証成功後は期限なしで利用できます。
+※この版は初回導入時にWindows側でEXEを生成します。Windowsでのビルド・起動・認証・撮影は未確認です。
+※BOOTHの配布ファイルがv1.2.3へ更新されていることを確認してから導入してください。</notes>
 </update>
