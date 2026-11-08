@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update>
-  <version>1.1.1</version>
+  <version>1.1.2</version>
   <page>https://fuyumoe2016.github.io/maya/</page>
-  <notes>ゴミ箱から戻した項目の保存と戻り先の表示を改善し、メモ一覧と編集画面にフォルダ階層を表示するようにしました。</notes>
+  <notes>メモの編集画面の左下に、本文の文字数を表示するようにしました。</notes>
 </update>
