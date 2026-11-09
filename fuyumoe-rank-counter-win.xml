@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <version>0.20.9</version>
+  <version>0.20.11</version>
   <page>https://fuyumoe.booth.pm/items/9025125</page>
-  <notes>更新情報の取得先をGitHubへ変更しました。</notes>
+  <notes>BOOTH配布版の説明書を改訂しました。OBSに勝敗カウンターが表示されない場合は、ブラウザソースの「ローカルファイル」をオフにし、URLに http://127.0.0.1:18769/ を指定してください（標準設定）。</notes>
 </update>
