@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update>
-  <version>1.1.4</version>
+  <version>1.1.5</version>
   <page>https://fuyumoe2016.github.io/maya/</page>
-  <notes>画像の枠とメニューを削除し、フォルダの階層移動、長いタイトルの表示、編集へ戻った時のキャレット復帰を改善しました。</notes>
+  <notes>文字を選択している間は、書式ツールを上に移動して選択メニューとの重なりを防ぎます。</notes>
 </update>
