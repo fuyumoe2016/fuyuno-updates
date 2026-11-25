@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update>
-  <version>1.1.5</version>
+  <version>1.1.6</version>
   <page>https://fuyumoe2016.github.io/maya/</page>
-  <notes>文字を選択している間は、書式ツールを上に移動して選択メニューとの重なりを防ぎます。</notes>
+  <notes>文字選択時は太字などを優先表示し、画面上端の書式ボタンからも編集できます。</notes>
 </update>
